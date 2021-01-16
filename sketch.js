@@ -28,7 +28,7 @@ function setup() {
 	Engine.run(engine);
 	lines1=new lines(240,600,20,140)
 	lines1.shapeColor="red"
-	lines2=new lines(350,650,200,20)
+	lines2=new lines(350,700,200,20)
 	lines2.shapeColor="red"
 	lines3=new lines(450,600,20,140)
 	lines3.shapeColor="red"
